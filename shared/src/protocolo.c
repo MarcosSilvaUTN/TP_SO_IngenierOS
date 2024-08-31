@@ -1,0 +1,3 @@
+#include "../include/protocolo.h"
+
+// ACA VA LA LOGICA DE SERIALIZACION Y DESCERIALIZACION DEL MENSAJE
